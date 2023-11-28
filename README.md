@@ -6,6 +6,7 @@
       <img src = "https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegraml&logoColor=white" alt="VK Badge"/> 
     </a>
 </div>
+
 <div id="viewprof" align="center" > 
   <img src="https://komarev.com/ghpvc/?username=youngdeeath&style=flat-square&color=red" alt=""/>
 </div>
@@ -14,7 +15,7 @@
 </div>
 
 ###  About me/Обо мне:
-- 👋 Привет/Hi, I’m @youngdeeath
+- 👋 Привет, Я Денис /Hi, I’m Denis
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
