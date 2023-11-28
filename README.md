@@ -9,7 +9,6 @@
 <div id="viewprof" align="center" > 
   <img src="https://komarev.com/ghpvc/?username=youngdeeath&style=flat-square&color=red" alt=""/>
 </div>
-
 <div id="heythere" align="center" >
   <h1> Profile in GITHUB </h1>
 </div>
