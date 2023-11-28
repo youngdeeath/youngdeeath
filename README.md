@@ -7,7 +7,7 @@
     </a>
 </div>
 <div id="viewprof" align="center" > 
-  <img src="https://komarev.com/ghpvc/?username=youngdeeath&style=flat-square&color=white" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=youngdeeath&style=flat-square&color=red" alt=""/>
 </div>
 
 <div id="heythere" align="center" >
